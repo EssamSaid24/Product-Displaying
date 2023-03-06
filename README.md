@@ -1,7 +1,7 @@
-##React App Read Me
+## React App Read Me
 This React app is designed to fetch data from a file and display it in the browser.
 
-##Prerequisites
+## Prerequisites
 Before running this app, you will need to have the following installed on your computer:
 
 Node.js
